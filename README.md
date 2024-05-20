@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/hexbacon/hexbacon/blob/main/bar.gif)
+<img style="width:100%;height:3px;" src="./bar.gif" />
 
 ### Hey, I'm Christopher 👋
 
